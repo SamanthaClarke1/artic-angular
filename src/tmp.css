@@ -1,0 +1,88 @@
+
+:root {
+  --artic-white: #f8f9fc;
+  --artic-stark-white: #fff;
+  --artic-off-white: #cdcfd6;
+  --artic-gray: #b2b2b9;
+  --artic-light-black: #28354C;
+
+  --artic-indigo: #0b1632;
+  --artic-blue: #364878;
+  --artic-light-blue: #425984;
+
+  --artic-teal: #13a89e;
+  --artic-turquoise: #33bfb5;
+
+  --artic-red: #f52642;
+  --artic-berry: #a90022;
+
+  --artic-yellow: #f7cb3b; /* rgb(247,203,59) */
+  --artic-yellow-bg: #f8e09d;
+  --artic-gold: #e39322;
+
+  --artic-green: #2abf5d;
+  --artic-emerald: #23943f; /* rgb(35, 148, 63) */
+
+  --artic-text: #020206;
+  --artic-sub-text: #4f4f53;
+  --artic-sub-sub-text: #797a7c;
+  --artic-link-text: #364878;
+  --artic-link-text-hover: #425984;
+  --artic-link-fade: #0033ff44;
+  --artic-text-focus: #020226;
+  --artic-inverse-text-muted: #d4d7da;
+  --artic-inverse-text: #f2f4f6;
+  --artic-inverse-text-hover: #fbfcff;
+
+  --artic-ruling: #b4b4ba;
+
+  --artic-green-bg: #d2f5de;
+  --artic-green-bg-focus: #aeedc4;
+  --artic-red-bg: #fcb7c0;
+  --artic-red-bg-focus: #fa919f;
+
+  --card-shadow-main: rgba(0, 0, 3, 0.16);
+  --card-shadow-sub: rgba(0, 0, 3, 0.12);
+  --readonly-shade: rgba(10, 10, 11, 0.05);
+  --overlay-default: rgba(0, 0, 0, 0.3);
+
+  --light-only-shade-1: rgba(0, 0, 0, 0.3);
+}
+
+:root.dark {
+  --artic-white: #2b3551;
+  --artic-off-white: #232c43;
+  --artic-stark-white: #313d5e;
+  --artic-gray: #46507a;
+  --artic-light-black: #bdd0db;
+
+  --artic-indigo: #091122;
+  --artic-blue: #091122;
+  --artic-light-blue: #0f1d33;
+
+  --artic-ruling: #3a486a;
+
+  --artic-green-bg: #314a4c;
+  --artic-red-bg: #563c5c;
+
+  --artic-text: #e7edf0;
+  --artic-sub-text: #b2c3cd;
+  --artic-sub-sub-text: #a4b9c4;
+  --artic-link-text: #f7567c;
+  --artic-link-fade: #f7567c44;
+  --artic-link-text-hover: #ff83a0;
+  --artic-text-focus: #f9fcff;
+
+  --artic-yellow: #f3c853;
+  --artic-yellow-bg: #f3c853;
+  --artic-gold: #efb61a;
+
+  --artic-inverse-text: #e7edf0;
+  --artic-inverse-text-hover: #f9fcff;
+
+  --readonly-shade: rgba(10, 10, 11, 0.06);
+  --card-shadow-main: rgba(0, 0, 2, 0.19);
+  --card-shadow-sub: rgba(0, 0, 2, 0.15);
+
+  --light-only-shade-1: rgba(0, 0, 0, 0);
+}
